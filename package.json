@@ -116,7 +116,7 @@
   ],
   "license": "Apache-2.0",
   "main": "dist/src/scripts/index.js",
-  "name": "frontitycore",
+  "name": "frontitycore2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/frontity/frontity.git"
